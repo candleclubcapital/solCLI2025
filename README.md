@@ -21,5 +21,5 @@ A modern Solana command-line assistant with a full graphical interface.
 ## Run
 
 ```bash
-python c3_sol_cli_2025.py
+python solCLi.py
 ```
