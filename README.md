@@ -1,3 +1,6 @@
+
+<img width="630" height="636" alt="Screenshot 2025-10-23 at 6 33 30 AM" src="https://github.com/user-attachments/assets/2052c1bc-697f-4b56-afcd-496b4169db4d" />
+
 ````markdown
 # C3 SOL CLI 2025
 
